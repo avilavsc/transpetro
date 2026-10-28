@@ -1,4 +1,4 @@
-baseURL = 'https://avilavsc.github.io/blog/'
+baseURL = 'https://avilavsc.github.io/transpetro/'
 locale = 'pt'
-title = 'Avila'
-theme = 'PaperMod'
+title = 'Transpetro'
+theme = 'hextra'
