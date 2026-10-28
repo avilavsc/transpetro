@@ -1,9 +1,16 @@
 baseURL = 'https://avilavsc.github.io/transpetro/'
 locale = 'pt'
+defaultContentLanguage = 'pt'
 title = 'Mentoria Transpetro'
 theme = 'hextra'
+
 
 [[menu.main]]
   name = "Curso"
   pageRef = "/docs"
   weight = 1
+
+[params.footer]
+  enable = true
+  displayCopyright = true
+  displayPoweredBy = false   # esconde "Powered by Hextra"
