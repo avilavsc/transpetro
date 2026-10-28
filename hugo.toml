@@ -1,6 +1,6 @@
 baseURL = 'https://avilavsc.github.io/transpetro/'
 locale = 'pt'
-title = 'Transpetro'
+title = 'Mentoria Transpetro'
 theme = 'hextra'
 
 [[menu.main]]
