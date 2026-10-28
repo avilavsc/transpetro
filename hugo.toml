@@ -2,3 +2,8 @@ baseURL = 'https://avilavsc.github.io/transpetro/'
 locale = 'pt'
 title = 'Transpetro'
 theme = 'hextra'
+
+[[menu.main]]
+  name = "Blog"
+  pageRef = "/blog"
+  weight = 1
