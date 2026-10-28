@@ -4,6 +4,6 @@ title = 'Transpetro'
 theme = 'hextra'
 
 [[menu.main]]
-  name = "Blog"
-  pageRef = "/blog"
+  name = "Curso"
+  pageRef = "/docs"
   weight = 1
